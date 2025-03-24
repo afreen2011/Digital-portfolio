@@ -332,7 +332,7 @@
 
             <h2>Resume</h2>
 
-            <a href="https://nsudarsan.neocities.org/HTML%20/New%20html/AfreenResume_page-0001.jpg" target="_blank" class="download-button">Download CV</a>
+            <a href="AfreenResume.pdf" target="_blank" class="download-button">Download CV</a>
 
         </center>
 
